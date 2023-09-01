@@ -2,12 +2,12 @@
   "name": "GG-theme",
   "displayName": "GG-theme",
   "description": "GG-theme",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "ShidharthLimboo",
   "engines": {
     "vscode": "^1.81.0"
   },
-  "icon": "https://github.com/sushimushi/GG-theme/blob/master/good-game.png",
+  "icon": "good-game.png",
   "categories": [
     "Themes"
   ],

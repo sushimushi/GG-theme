@@ -2,7 +2,7 @@
 
 Welcome to the documentation for GG-theme. This theme is designed to make your coding experience visually appealing and comfortable.
 
-![Theme Preview](https://github.com/sushimushi/GG-theme/blob/master/preview.png)
+![Theme Preview](https://github.com/sushimushi/GG-theme/blob/master/preview.png?raw=true)
 
 ## Installation
 
@@ -35,11 +35,11 @@ Include screenshots that showcase your theme in action with different code snipp
 
 **JavaScript:**
 
-![JavaScript](https://github.com/sushimushi/GG-theme/blob/master/preview.png)
+![JavaScript](https://github.com/sushimushi/GG-theme/blob/master/preview.png?raw=true)
 
 **Python:**
 
-![Python](https://github.com/sushimushi/GG-theme/blob/master/preview-python.png)
+![Python](https://github.com/sushimushi/GG-theme/blob/master/preview-python.png?raw=true)
 
 ## Feedback and Issues
 
