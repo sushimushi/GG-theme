@@ -2,7 +2,7 @@
   "name": "GG-theme",
   "displayName": "GG-theme",
   "description": "GG-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ShidharthLimboo",
   "engines": {
     "vscode": "^1.81.0"

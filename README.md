@@ -2,7 +2,7 @@
 
 Welcome to the documentation for GG-theme. This theme is designed to make your coding experience visually appealing and comfortable.
 
-![Theme Preview](./preview.png)
+![Theme Preview](https://github.com/sushimushi/GG-theme/blob/master/preview.png)
 
 ## Installation
 
@@ -35,11 +35,11 @@ Include screenshots that showcase your theme in action with different code snipp
 
 **JavaScript:**
 
-![JavaScript](./preview.png)
+![JavaScript](https://github.com/sushimushi/GG-theme/blob/master/preview.png)
 
 **Python:**
 
-![Python](./preview-python.png)
+![Python](https://github.com/sushimushi/GG-theme/blob/master/preview-python.png)
 
 ## Feedback and Issues
 
@@ -47,13 +47,6 @@ If you encounter any issues, have suggestions, or want to provide feedback, plea
 
 - [Open an Issue on GitHub](https://github.com/sushimushi/GG-theme)
 - Email us at sidimboo@gmail.com
-
-## Contributing
-
-
-## License
-
-This theme is licensed under the [MIT License](LICENSE).
 
 ---
 
