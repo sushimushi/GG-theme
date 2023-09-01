@@ -45,12 +45,11 @@ Include screenshots that showcase your theme in action with different code snipp
 
 If you encounter any issues, have suggestions, or want to provide feedback, please do one of the following:
 
-- [Open an Issue on GitHub](https://github.com/your-theme-repo/issues)
+- [Open an Issue on GitHub](https://github.com/sushimushi/GG-theme)
 - Email us at sidimboo@gmail.com
 
 ## Contributing
 
-We welcome contributions from the community. If you'd like to contribute to this theme, please read our [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
@@ -58,7 +57,7 @@ This theme is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for choosing My Awesome VS Code Color Theme! We hope it enhances your coding experience.
+Thank you for choosing GG-theme! We hope it enhances your coding experience.
 
 **Author:** Your Name
 **Version:** 1.0.0
